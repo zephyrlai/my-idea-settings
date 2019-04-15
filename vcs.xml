@@ -22,6 +22,10 @@
           <option name="url" value="http://gitlab.kingcars.cn/cdd/cddapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.kingcars.cn/ccl/ccl-cmos.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\myWorkplace\ideaWorkplace\kingcar" />
