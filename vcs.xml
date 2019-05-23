@@ -34,6 +34,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="laizonghao@foxmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.kingcars.cn/cdd/cdd-crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\myWorkplace\ideaWorkplace\kingcar" />
